@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @priyonto
 - 👀 I’m an iOS Developer proficient in Swift, SwiftUI, and Objective C.
-- 🌱 I’m currently learning Python, Node.js & React.js
 - 🌱 I’m keen to play with new technologies and frameworks
 
 <!---
